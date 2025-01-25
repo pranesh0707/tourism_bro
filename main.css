@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.mh1{
+    height: 75px;
+    background-color: white;
+    background-position: center;
+    width:max-content;
+    padding: 20px;float: top -10px;;
+}
+
+.main{
+    height: 710px;
+    background-image: url(https://ik.imagekit.io/pranesh/REVAMP%20TRAINING/mainpage.jpg);
+    background-size: cover;
+    
+}
